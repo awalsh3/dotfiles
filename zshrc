@@ -69,3 +69,4 @@ HEROKU_AC_ZSH_SETUP_PATH=/Users/anniewalsh/Library/Caches/heroku/autocomplete/zs
 
 export PATH=$PATH:$M2_HOME/bin
 export PATH
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
